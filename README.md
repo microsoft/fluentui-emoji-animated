@@ -1,6 +1,6 @@
 # Fluent Emoji Animated
 
-Animated PNGs for Fluent Emoji. Not all emojis are animated, but the ones that are can be found here.
+Animated PNGs, size 256x256 px for [Fluent Emoji](https://github.com/microsoft/fluentui-emoji). Not all emojis are animated, but the ones that are can be found here.
 
 ## Cloning
 

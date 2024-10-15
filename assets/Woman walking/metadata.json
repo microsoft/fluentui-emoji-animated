@@ -2,18 +2,12 @@
   "cldr": "woman walking",
   "fromVersion": "4.0",
   "glyph": "🚶‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_walking"
-  ],
   "group": "People & Body",
   "keywords": [
     "hike",
     "walk",
     "woman",
     "woman walking"
-  ],
-  "mappedToEmoticons": [
-    "woman_walking"
   ],
   "tts": "woman walking",
   "unicode": "1f6b6 200d 2640 fe0f",

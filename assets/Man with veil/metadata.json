@@ -2,17 +2,11 @@
   "cldr": "man with veil",
   "fromVersion": "13.0",
   "glyph": "👰‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manwithveil"
-  ],
   "group": "People & Body",
   "keywords": [
     "man",
     "man with veil",
     "veil"
-  ],
-  "mappedToEmoticons": [
-    "manwithveil"
   ],
   "tts": "man with veil",
   "unicode": "1f470 200d 2642 fe0f",

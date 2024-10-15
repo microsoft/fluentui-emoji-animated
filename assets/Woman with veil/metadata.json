@@ -2,17 +2,11 @@
   "cldr": "woman with veil",
   "fromVersion": "13.0",
   "glyph": "👰‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanwithveil"
-  ],
   "group": "People & Body",
   "keywords": [
     "veil",
     "woman",
     "woman with veil"
-  ],
-  "mappedToEmoticons": [
-    "womanwithveil"
   ],
   "tts": "woman with veil",
   "unicode": "1f470 200d 2640 fe0f",

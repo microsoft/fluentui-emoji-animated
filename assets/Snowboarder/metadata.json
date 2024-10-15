@@ -2,17 +2,11 @@
   "cldr": "snowboarder",
   "fromVersion": "0.6",
   "glyph": "🏂",
-  "glyphAsUtfInEmoticons": [
-    "snowboarder"
-  ],
   "group": "People & Body",
   "keywords": [
     "ski",
     "snow",
     "snowboard",
-    "snowboarder"
-  ],
-  "mappedToEmoticons": [
     "snowboarder"
   ],
   "tts": "snowboarder",

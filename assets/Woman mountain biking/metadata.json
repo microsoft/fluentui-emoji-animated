@@ -2,9 +2,6 @@
   "cldr": "woman mountain biking",
   "fromVersion": "4.0",
   "glyph": "🚵‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_mountain_biking"
-  ],
   "group": "People & Body",
   "keywords": [
     "bicycle",
@@ -13,9 +10,6 @@
     "cyclist",
     "mountain",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "woman_mountain_biking"
   ],
   "tts": "woman mountain biking",
   "unicode": "1f6b5 200d 2640 fe0f",

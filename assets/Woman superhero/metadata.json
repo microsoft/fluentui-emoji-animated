@@ -2,9 +2,6 @@
   "cldr": "woman superhero",
   "fromVersion": "11.0",
   "glyph": "🦸‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "hero"
-  ],
   "group": "People & Body",
   "keywords": [
     "good",
@@ -13,9 +10,6 @@
     "superpower",
     "woman",
     "woman superhero"
-  ],
-  "mappedToEmoticons": [
-    "hero"
   ],
   "tts": "woman superhero",
   "unicode": "1f9b8 200d 2640 fe0f",

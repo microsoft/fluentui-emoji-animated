@@ -7,9 +7,6 @@
     "cloud",
     "fog"
   ],
-  "mappedToEmoticons": [
-    "1f32b_fog"
-  ],
   "tts": "fog",
   "unicode": "1f32b fe0f"
 }

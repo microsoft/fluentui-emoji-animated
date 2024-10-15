@@ -2,9 +2,6 @@
   "cldr": "woman: blond hair",
   "fromVersion": "4.0",
   "glyph": "👱‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanblondhair"
-  ],
   "group": "People & Body",
   "keywords": [
     "blond-haired woman",
@@ -12,9 +9,6 @@
     "hair",
     "woman",
     "woman: blond hair"
-  ],
-  "mappedToEmoticons": [
-    "womanblondhair"
   ],
   "tts": "woman: blond hair",
   "unicode": "1f471 200d 2640 fe0f",

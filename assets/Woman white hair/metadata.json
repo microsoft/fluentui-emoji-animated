@@ -2,17 +2,11 @@
   "cldr": "woman: white hair",
   "fromVersion": "11.0",
   "glyph": "👩‍🦳",
-  "glyphAsUtfInEmoticons": [
-    "womanwhitehair"
-  ],
   "group": "People & Body",
   "keywords": [
     "adult",
     "white hair",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanwhitehair"
   ],
   "tts": "woman: white hair",
   "unicode": "1f469 200d 1f9b3",

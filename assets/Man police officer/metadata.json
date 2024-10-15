@@ -2,18 +2,12 @@
   "cldr": "man police officer",
   "fromVersion": "4.0",
   "glyph": "👮‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manpoliceofficer"
-  ],
   "group": "People & Body",
   "keywords": [
     "cop",
     "man",
     "officer",
     "police"
-  ],
-  "mappedToEmoticons": [
-    "manpoliceofficer"
   ],
   "tts": "man police officer",
   "unicode": "1f46e 200d 2642 fe0f",

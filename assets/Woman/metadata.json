@@ -2,19 +2,10 @@
   "cldr": "woman",
   "fromVersion": "0.6",
   "glyph": "👩",
-  "glyphAsUtfInEmoticons": [
-    "smilewoman",
-    "woman",
-    "woman_student",
-    "womanstudent"
-  ],
   "group": "People & Body",
   "keywords": [
     "adult",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "smilewoman"
   ],
   "tts": "woman",
   "unicode": "1f469",

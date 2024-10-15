@@ -2,9 +2,6 @@
   "cldr": "crossed fingers",
   "fromVersion": "3.0",
   "glyph": "🤞",
-  "glyphAsUtfInEmoticons": [
-    "fingerscrossed"
-  ],
   "group": "People & Body",
   "keywords": [
     "cross",
@@ -12,9 +9,6 @@
     "finger",
     "hand",
     "luck"
-  ],
-  "mappedToEmoticons": [
-    "crossedfingers"
   ],
   "tts": "crossed fingers",
   "unicode": "1f91e",

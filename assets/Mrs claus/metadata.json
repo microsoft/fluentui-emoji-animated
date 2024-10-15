@@ -2,9 +2,6 @@
   "cldr": "Mrs. Claus",
   "fromVersion": "3.0",
   "glyph": "🤶",
-  "glyphAsUtfInEmoticons": [
-    "mother_christmas"
-  ],
   "group": "People & Body",
   "keywords": [
     "celebration",
@@ -13,9 +10,6 @@
     "mother",
     "Mrs.",
     "Mrs. Claus"
-  ],
-  "mappedToEmoticons": [
-    "mother_christmas"
   ],
   "tts": "Mrs. Claus",
   "unicode": "1f936",

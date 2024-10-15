@@ -2,9 +2,6 @@
   "cldr": "man supervillain",
   "fromVersion": "11.0",
   "glyph": "🦹‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_super_villain"
-  ],
   "group": "People & Body",
   "keywords": [
     "criminal",
@@ -13,9 +10,6 @@
     "man supervillain",
     "superpower",
     "villain"
-  ],
-  "mappedToEmoticons": [
-    "man_super_villain"
   ],
   "tts": "man supervillain",
   "unicode": "1f9b9 200d 2642 fe0f",

@@ -2,17 +2,11 @@
   "cldr": "woman: red hair",
   "fromVersion": "11.0",
   "glyph": "👩‍🦰",
-  "glyphAsUtfInEmoticons": [
-    "1f469_200d_1f9b0_femaleredhaired"
-  ],
   "group": "People & Body",
   "keywords": [
     "adult",
     "red hair",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "1f469_200d_1f9b0_femaleredhaired"
   ],
   "tts": "woman: red hair",
   "unicode": "1f469 200d 1f9b0",

@@ -2,9 +2,6 @@
   "cldr": "kissing cat",
   "fromVersion": "0.6",
   "glyph": "😽",
-  "glyphAsUtfInEmoticons": [
-    "1f63d_kissingcat"
-  ],
   "group": "Smileys & Emotion",
   "keywords": [
     "cat",
@@ -12,9 +9,6 @@
     "face",
     "kiss",
     "kissing cat"
-  ],
-  "mappedToEmoticons": [
-    "1f63d_kissingcat"
   ],
   "tts": "kissing cat",
   "unicode": "1f63d"

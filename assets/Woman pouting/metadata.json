@@ -2,17 +2,11 @@
   "cldr": "woman pouting",
   "fromVersion": "4.0",
   "glyph": "🙎‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanpouting"
-  ],
   "group": "People & Body",
   "keywords": [
     "gesture",
     "pouting",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanpouting"
   ],
   "tts": "woman pouting",
   "unicode": "1f64e 200d 2640 fe0f",

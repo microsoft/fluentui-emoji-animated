@@ -2,18 +2,12 @@
   "cldr": "man detective",
   "fromVersion": "4.0",
   "glyph": "🕵️‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_detective"
-  ],
   "group": "People & Body",
   "keywords": [
     "detective",
     "man",
     "sleuth",
     "spy"
-  ],
-  "mappedToEmoticons": [
-    "man_detective"
   ],
   "tts": "man detective",
   "unicode": "1f575 fe0f 200d 2642 fe0f",

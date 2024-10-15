@@ -2,17 +2,11 @@
   "cldr": "woman construction worker",
   "fromVersion": "4.0",
   "glyph": "👷‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_construction_worker"
-  ],
   "group": "People & Body",
   "keywords": [
     "construction",
     "woman",
     "worker"
-  ],
-  "mappedToEmoticons": [
-    "woman_construction_worker"
   ],
   "tts": "woman construction worker",
   "unicode": "1f477 200d 2640 fe0f",

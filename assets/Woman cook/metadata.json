@@ -2,17 +2,11 @@
   "cldr": "woman cook",
   "fromVersion": "4.0",
   "glyph": "👩‍🍳",
-  "glyphAsUtfInEmoticons": [
-    "womanchef"
-  ],
   "group": "People & Body",
   "keywords": [
     "chef",
     "cook",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanchef"
   ],
   "tts": "woman cook",
   "unicode": "1f469 200d 1f373",

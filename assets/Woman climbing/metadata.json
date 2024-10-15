@@ -2,16 +2,10 @@
   "cldr": "woman climbing",
   "fromVersion": "5.0",
   "glyph": "🧗‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_climbing"
-  ],
   "group": "People & Body",
   "keywords": [
     "climber",
     "woman climbing"
-  ],
-  "mappedToEmoticons": [
-    "woman_climbing"
   ],
   "tts": "woman climbing",
   "unicode": "1f9d7 200d 2640 fe0f",

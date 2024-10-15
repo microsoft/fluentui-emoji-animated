@@ -8,9 +8,6 @@
     "receiver",
     "telephone"
   ],
-  "mappedToEmoticons": [
-    "telephonereceiver"
-  ],
   "tts": "telephone receiver",
   "unicode": "1f4de"
 }

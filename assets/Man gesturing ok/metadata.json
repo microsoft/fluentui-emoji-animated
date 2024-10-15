@@ -2,9 +2,6 @@
   "cldr": "man gesturing OK",
   "fromVersion": "4.0",
   "glyph": "🙆‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_gesturing_ok"
-  ],
   "group": "People & Body",
   "keywords": [
     "gesture",
@@ -12,9 +9,6 @@
     "man",
     "man gesturing OK",
     "OK"
-  ],
-  "mappedToEmoticons": [
-    "man_gesturing_ok"
   ],
   "tts": "man gesturing OK",
   "unicode": "1f646 200d 2642 fe0f",

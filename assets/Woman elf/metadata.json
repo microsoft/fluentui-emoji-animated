@@ -2,16 +2,10 @@
   "cldr": "woman elf",
   "fromVersion": "5.0",
   "glyph": "🧝‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_elf"
-  ],
   "group": "People & Body",
   "keywords": [
     "magical",
     "woman elf"
-  ],
-  "mappedToEmoticons": [
-    "woman_elf"
   ],
   "tts": "woman elf",
   "unicode": "1f9dd 200d 2640 fe0f",

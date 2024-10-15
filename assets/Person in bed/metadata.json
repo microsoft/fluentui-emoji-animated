@@ -2,17 +2,11 @@
   "cldr": "person in bed",
   "fromVersion": "1.0",
   "glyph": "🛌",
-  "glyphAsUtfInEmoticons": [
-    "person_in_bed"
-  ],
   "group": "People & Body",
   "keywords": [
     "hotel",
     "person in bed",
     "sleep"
-  ],
-  "mappedToEmoticons": [
-    "person_in_bed"
   ],
   "tts": "person in bed",
   "unicode": "1f6cc",

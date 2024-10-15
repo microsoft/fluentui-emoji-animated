@@ -2,18 +2,12 @@
   "cldr": "man teacher",
   "fromVersion": "4.0",
   "glyph": "👨‍🏫",
-  "glyphAsUtfInEmoticons": [
-    "manteacher"
-  ],
   "group": "People & Body",
   "keywords": [
     "instructor",
     "man",
     "professor",
     "teacher"
-  ],
-  "mappedToEmoticons": [
-    "manteacher"
   ],
   "tts": "man teacher",
   "unicode": "1f468 200d 1f3eb",

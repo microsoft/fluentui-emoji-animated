@@ -2,17 +2,11 @@
   "cldr": "woman swimming",
   "fromVersion": "4.0",
   "glyph": "🏊‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_swimmer"
-  ],
   "group": "People & Body",
   "keywords": [
     "swim",
     "woman",
     "woman swimming"
-  ],
-  "mappedToEmoticons": [
-    "woman_swimmer"
   ],
   "tts": "woman swimming",
   "unicode": "1f3ca 200d 2640 fe0f",

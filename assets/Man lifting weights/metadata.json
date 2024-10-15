@@ -2,17 +2,11 @@
   "cldr": "man lifting weights",
   "fromVersion": "4.0",
   "glyph": "🏋️‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manliftingweights"
-  ],
   "group": "People & Body",
   "keywords": [
     "man",
     "man lifting weights",
     "weight lifter"
-  ],
-  "mappedToEmoticons": [
-    "manliftingweights"
   ],
   "tts": "man lifting weights",
   "unicode": "1f3cb fe0f 200d 2642 fe0f",

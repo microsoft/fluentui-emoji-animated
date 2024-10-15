@@ -2,16 +2,10 @@
   "cldr": "man surfing",
   "fromVersion": "4.0",
   "glyph": "🏄‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "mansurfer"
-  ],
   "group": "People & Body",
   "keywords": [
     "man",
     "surfing"
-  ],
-  "mappedToEmoticons": [
-    "mansurfer"
   ],
   "tts": "man surfing",
   "unicode": "1f3c4 200d 2642 fe0f",

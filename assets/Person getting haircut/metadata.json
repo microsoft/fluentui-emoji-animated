@@ -2,9 +2,6 @@
   "cldr": "person getting haircut",
   "fromVersion": "0.6",
   "glyph": "💇",
-  "glyphAsUtfInEmoticons": [
-    "person_getting_haircut"
-  ],
   "group": "People & Body",
   "keywords": [
     "barber",
@@ -12,9 +9,6 @@
     "haircut",
     "parlor",
     "person getting haircut"
-  ],
-  "mappedToEmoticons": [
-    "person_getting_haircut"
   ],
   "tts": "person getting haircut",
   "unicode": "1f487",

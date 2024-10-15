@@ -2,16 +2,10 @@
   "cldr": "pregnant woman",
   "fromVersion": "3.0",
   "glyph": "🤰",
-  "glyphAsUtfInEmoticons": [
-    "womanpregnant"
-  ],
   "group": "People & Body",
   "keywords": [
     "pregnant",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanpregnant"
   ],
   "tts": "pregnant woman",
   "unicode": "1f930",

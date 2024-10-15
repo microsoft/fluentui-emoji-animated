@@ -2,9 +2,6 @@
   "cldr": "woman supervillain",
   "fromVersion": "11.0",
   "glyph": "🦹‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_super_villain"
-  ],
   "group": "People & Body",
   "keywords": [
     "criminal",
@@ -13,9 +10,6 @@
     "villain",
     "woman",
     "woman supervillain"
-  ],
-  "mappedToEmoticons": [
-    "woman_super_villain"
   ],
   "tts": "woman supervillain",
   "unicode": "1f9b9 200d 2640 fe0f",

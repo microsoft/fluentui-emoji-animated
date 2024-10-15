@@ -2,18 +2,12 @@
   "cldr": "woman cartwheeling",
   "fromVersion": "4.0",
   "glyph": "🤸‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_cartwheeling"
-  ],
   "group": "People & Body",
   "keywords": [
     "cartwheel",
     "gymnastics",
     "woman",
     "woman cartwheeling"
-  ],
-  "mappedToEmoticons": [
-    "woman_cartwheeling"
   ],
   "tts": "woman cartwheeling",
   "unicode": "1f938 200d 2640 fe0f",

@@ -2,18 +2,11 @@
   "cldr": "love-you gesture",
   "fromVersion": "5.0",
   "glyph": "🤟",
-  "glyphAsUtfInEmoticons": [
-    "1f91f_loveyougesture",
-    "hearthands"
-  ],
   "group": "People & Body",
   "keywords": [
     "hand",
     "ILY",
     "love-you gesture"
-  ],
-  "mappedToEmoticons": [
-    "1f91f_loveyougesture"
   ],
   "tts": "love-you gesture",
   "unicode": "1f91f",

@@ -2,9 +2,6 @@
   "cldr": "person: white hair",
   "fromVersion": "12.1",
   "glyph": "🧑‍🦳",
-  "glyphAsUtfInEmoticons": [
-    "personwhitehair"
-  ],
   "group": "People & Body",
   "keywords": [
     "adult",
@@ -12,9 +9,6 @@
     "person",
     "unspecified gender",
     "white hair"
-  ],
-  "mappedToEmoticons": [
-    "personwhitehair"
   ],
   "tts": "person: white hair",
   "unicode": "1f9d1 200d 1f9b3",

@@ -2,9 +2,6 @@
   "cldr": "skull and crossbones",
   "fromVersion": "1.0",
   "glyph": "☠️",
-  "glyphAsUtfInEmoticons": [
-    "2620_skullandcrossbones"
-  ],
   "group": "Smileys & Emotion",
   "keywords": [
     "crossbones",
@@ -13,9 +10,6 @@
     "monster",
     "skull",
     "skull and crossbones"
-  ],
-  "mappedToEmoticons": [
-    "2620_skullandcrossbones"
   ],
   "tts": "skull and crossbones",
   "unicode": "2620 fe0f"

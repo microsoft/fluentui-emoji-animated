@@ -2,17 +2,11 @@
   "cldr": "man: white hair",
   "fromVersion": "11.0",
   "glyph": "👨‍🦳",
-  "glyphAsUtfInEmoticons": [
-    "1f468_200d_1f9b3_malewhitehaired"
-  ],
   "group": "People & Body",
   "keywords": [
     "adult",
     "man",
     "white hair"
-  ],
-  "mappedToEmoticons": [
-    "1f468_200d_1f9b3_malewhitehaired"
   ],
   "tts": "man: white hair",
   "unicode": "1f468 200d 1f9b3",

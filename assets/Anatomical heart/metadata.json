@@ -2,9 +2,6 @@
   "cldr": "anatomical heart",
   "fromVersion": "13.0",
   "glyph": "🫀",
-  "glyphAsUtfInEmoticons": [
-    "anatomicalheart"
-  ],
   "group": "People & Body",
   "keywords": [
     "anatomical",
@@ -12,9 +9,6 @@
     "heart",
     "organ",
     "pulse"
-  ],
-  "mappedToEmoticons": [
-    "anatomicalheart"
   ],
   "tts": "anatomical heart",
   "unicode": "1fac0"

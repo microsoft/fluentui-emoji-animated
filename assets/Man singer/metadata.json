@@ -2,9 +2,6 @@
   "cldr": "man singer",
   "fromVersion": "4.0",
   "glyph": "👨‍🎤",
-  "glyphAsUtfInEmoticons": [
-    "man_singer"
-  ],
   "group": "People & Body",
   "keywords": [
     "actor",
@@ -13,9 +10,6 @@
     "rock",
     "singer",
     "star"
-  ],
-  "mappedToEmoticons": [
-    "man_singer"
   ],
   "tts": "man singer",
   "unicode": "1f468 200d 1f3a4",

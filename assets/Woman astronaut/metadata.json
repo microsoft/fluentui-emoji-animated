@@ -2,17 +2,11 @@
   "cldr": "woman astronaut",
   "fromVersion": "4.0",
   "glyph": "👩‍🚀",
-  "glyphAsUtfInEmoticons": [
-    "womanastronaut"
-  ],
   "group": "People & Body",
   "keywords": [
     "astronaut",
     "rocket",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanastronaut"
   ],
   "tts": "woman astronaut",
   "unicode": "1f469 200d 1f680",

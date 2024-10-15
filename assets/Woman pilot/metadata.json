@@ -2,17 +2,11 @@
   "cldr": "woman pilot",
   "fromVersion": "4.0",
   "glyph": "👩‍✈️",
-  "glyphAsUtfInEmoticons": [
-    "womanpilot"
-  ],
   "group": "People & Body",
   "keywords": [
     "pilot",
     "plane",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanpilot"
   ],
   "tts": "woman pilot",
   "unicode": "1f469 200d 2708 fe0f",

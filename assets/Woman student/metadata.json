@@ -2,17 +2,11 @@
   "cldr": "woman student",
   "fromVersion": "4.0",
   "glyph": "👩‍🎓",
-  "glyphAsUtfInEmoticons": [
-    "womangraduate"
-  ],
   "group": "People & Body",
   "keywords": [
     "graduate",
     "student",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanstudent"
   ],
   "tts": "woman student",
   "unicode": "1f469 200d 1f393",

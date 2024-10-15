@@ -2,17 +2,11 @@
   "cldr": "woman juggling",
   "fromVersion": "4.0",
   "glyph": "🤹‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_juggling"
-  ],
   "group": "People & Body",
   "keywords": [
     "juggling",
     "multitask",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "woman_juggling"
   ],
   "tts": "woman juggling",
   "unicode": "1f939 200d 2640 fe0f",

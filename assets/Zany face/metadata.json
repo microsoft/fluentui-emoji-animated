@@ -2,10 +2,6 @@
   "cldr": "zany face",
   "fromVersion": "5.0",
   "glyph": "🤪",
-  "glyphAsUtfInEmoticons": [
-    "1f92a_zanyface",
-    "hysterical"
-  ],
   "group": "Smileys & Emotion",
   "keywords": [
     "eye",
@@ -13,9 +9,6 @@
     "large",
     "small",
     "zany face"
-  ],
-  "mappedToEmoticons": [
-    "1f92a_zanyface"
   ],
   "tts": "zany face",
   "unicode": "1f92a"

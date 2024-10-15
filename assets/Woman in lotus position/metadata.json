@@ -2,16 +2,10 @@
   "cldr": "woman in lotus position",
   "fromVersion": "5.0",
   "glyph": "🧘‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "yoga"
-  ],
   "group": "People & Body",
   "keywords": [
     "meditation",
     "woman in lotus position",
-    "yoga"
-  ],
-  "mappedToEmoticons": [
     "yoga"
   ],
   "tts": "woman in lotus position",

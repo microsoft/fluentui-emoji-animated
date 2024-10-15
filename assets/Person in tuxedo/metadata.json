@@ -2,19 +2,12 @@
   "cldr": "person in tuxedo",
   "fromVersion": "3.0",
   "glyph": "🤵",
-  "glyphAsUtfInEmoticons": [
-    "man_tuxedo",
-    "personintuxedo"
-  ],
   "group": "People & Body",
   "keywords": [
     "groom",
     "person",
     "person in tuxedo",
     "tuxedo"
-  ],
-  "mappedToEmoticons": [
-    "personintuxedo"
   ],
   "tts": "person in tuxedo",
   "unicode": "1f935",

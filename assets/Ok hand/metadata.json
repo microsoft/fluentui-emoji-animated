@@ -2,16 +2,10 @@
   "cldr": "OK hand",
   "fromVersion": "0.6",
   "glyph": "👌",
-  "glyphAsUtfInEmoticons": [
-    "ok"
-  ],
   "group": "People & Body",
   "keywords": [
     "hand",
     "OK"
-  ],
-  "mappedToEmoticons": [
-    "ok"
   ],
   "tts": "OK hand",
   "unicode": "1f44c",

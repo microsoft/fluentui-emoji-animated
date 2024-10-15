@@ -2,16 +2,10 @@
   "cldr": "woman surfing",
   "fromVersion": "4.0",
   "glyph": "🏄‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womansurfer"
-  ],
   "group": "People & Body",
   "keywords": [
     "surfing",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womansurfer"
   ],
   "tts": "woman surfing",
   "unicode": "1f3c4 200d 2640 fe0f",

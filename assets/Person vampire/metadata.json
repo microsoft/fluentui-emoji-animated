@@ -2,16 +2,10 @@
   "cldr": "vampire",
   "fromVersion": "5.0",
   "glyph": "🧛",
-  "glyphAsUtfInEmoticons": [
-    "ladyvampire"
-  ],
   "group": "People & Body",
   "keywords": [
     "Dracula",
     "undead",
-    "vampire"
-  ],
-  "mappedToEmoticons": [
     "vampire"
   ],
   "tts": "vampire",

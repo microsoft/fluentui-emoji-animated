@@ -2,9 +2,6 @@
   "cldr": "person tipping hand",
   "fromVersion": "0.6",
   "glyph": "💁",
-  "glyphAsUtfInEmoticons": [
-    "person_tipping_hand"
-  ],
   "group": "People & Body",
   "keywords": [
     "hand",
@@ -13,9 +10,6 @@
     "person tipping hand",
     "sassy",
     "tipping"
-  ],
-  "mappedToEmoticons": [
-    "person_tipping_hand"
   ],
   "tts": "person tipping hand",
   "unicode": "1f481",

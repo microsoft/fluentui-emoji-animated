@@ -1,0 +1,16 @@
+{
+  "cldr": "maracas",
+  "fromVersion": "15.0",
+  "glyph": "🪇",
+  "group": "Objects",
+  "keywords": [
+    "instrument",
+    "maracas",
+    "music",
+    "percussion",
+    "rattle",
+    "shake"
+  ],
+  "tts": "maracas",
+  "unicode": "1fa87"
+}

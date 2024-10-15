@@ -1,0 +1,16 @@
+{
+  "cldr": "flute",
+  "fromVersion": "15.0",
+  "glyph": "🪈",
+  "group": "Objects",
+  "keywords": [
+    "fife",
+    "flute",
+    "music",
+    "pipe",
+    "recorder",
+    "woodwind"
+  ],
+  "tts": "flute",
+  "unicode": "1fa88"
+}

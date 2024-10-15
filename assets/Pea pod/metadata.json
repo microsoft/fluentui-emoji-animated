@@ -1,0 +1,16 @@
+{
+  "cldr": "pea pod",
+  "fromVersion": "15.0",
+  "glyph": "🫛",
+  "group": "Food & Drink",
+  "keywords": [
+    "beans",
+    "edamame",
+    "legume",
+    "pea",
+    "pod",
+    "vegetable"
+  ],
+  "tts": "pea pod",
+  "unicode": "1fadb"
+}

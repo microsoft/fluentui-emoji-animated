@@ -1,0 +1,14 @@
+{
+  "cldr": "ginger root",
+  "fromVersion": "15.0",
+  "glyph": "🫚",
+  "group": "Food & Drink",
+  "keywords": [
+    "beer",
+    "ginger root",
+    "root",
+    "spice"
+  ],
+  "tts": "ginger root",
+  "unicode": "1fada"
+}

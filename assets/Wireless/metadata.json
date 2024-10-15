@@ -1,0 +1,14 @@
+{
+  "cldr": "wireless",
+  "fromVersion": "15.0",
+  "glyph": "🛜",
+  "group": "Symbols",
+  "keywords": [
+    "computer",
+    "internet",
+    "network",
+    "wireless"
+  ],
+  "tts": "wireless",
+  "unicode": "1f6dc"
+}

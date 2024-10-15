@@ -1,0 +1,25 @@
+{
+  "cldr": "leftwards pushing hand",
+  "fromVersion": "15.0",
+  "glyph": "🫷",
+  "group": "People & Body",
+  "keywords": [
+    "high five",
+    "leftward",
+    "leftwards pushing hand",
+    "push",
+    "refuse",
+    "stop",
+    "wait"
+  ],
+  "tts": "leftwards pushing hand",
+  "unicode": "1faf7",
+  "unicodeSkintones": [
+    "1faf7",
+    "1faf7 1f3fb",
+    "1faf7 1f3fc",
+    "1faf7 1f3fd",
+    "1faf7 1f3fe",
+    "1faf7 1f3ff"
+  ]
+}

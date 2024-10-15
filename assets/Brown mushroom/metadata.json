@@ -1,0 +1,26 @@
+{
+  "cldr": "brown mushroom",
+  "fromVersion": "15.1",
+  "glyph": "🍄‍🟫",
+  "group": "Food & Drink",
+  "keywords": [
+    "food",
+    "fungi",
+    "fungus",
+    "mushroom",
+    "nature",
+    "pizza",
+    "portobello",
+    "shiitake",
+    "shroom",
+    "spore",
+    "sprout",
+    "toppings",
+    "truffle",
+    "vegetable",
+    "vegetarian",
+    "veggie"
+  ],
+  "tts": "brown mushroom",
+  "unicode": "1f344 200d 1f7eb"
+}

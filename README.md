@@ -8,7 +8,7 @@ This repo uses Git Large File Storage (LFS) to store the animated PNGs. To clone
 
 If you have already cloned the repo but do not have Git LFS installed, you can install it and then run `git lfs pull` to download the large files.
 
-This repository is approximately **~5GB** in size, and growing with each new animated emoji.
+This repository is approximately **~5GB** in size (10GB on your disk), and growing with each new animated emoji.
 
 ## Contact
 

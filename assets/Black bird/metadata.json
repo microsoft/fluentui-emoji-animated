@@ -1,0 +1,15 @@
+{
+  "cldr": "black bird",
+  "fromVersion": "15.0",
+  "glyph": "🐦‍⬛",
+  "group": "Animals & Nature",
+  "keywords": [
+    "bird",
+    "black",
+    "crow",
+    "raven",
+    "rook"
+  ],
+  "tts": "black bird",
+  "unicode": "1f426 200d 2b1b"
+}

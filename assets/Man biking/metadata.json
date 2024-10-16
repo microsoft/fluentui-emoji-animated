@@ -2,18 +2,12 @@
   "cldr": "man biking",
   "fromVersion": "4.0",
   "glyph": "🚴‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "bike"
-  ],
   "group": "People & Body",
   "keywords": [
     "bicycle",
     "biking",
     "cyclist",
     "man"
-  ],
-  "mappedToEmoticons": [
-    "bike"
   ],
   "tts": "man biking",
   "unicode": "1f6b4 200d 2642 fe0f",

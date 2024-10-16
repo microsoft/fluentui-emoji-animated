@@ -2,9 +2,6 @@
   "cldr": "smiling face with sunglasses",
   "fromVersion": "1.0",
   "glyph": "😎",
-  "glyphAsUtfInEmoticons": [
-    "cool"
-  ],
   "group": "Smileys & Emotion",
   "keywords": [
     "bright",
@@ -13,9 +10,6 @@
     "smiling face with sunglasses",
     "sun",
     "sunglasses"
-  ],
-  "mappedToEmoticons": [
-    "cool"
   ],
   "tts": "smiling face with sunglasses",
   "unicode": "1f60e"

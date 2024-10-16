@@ -8,9 +8,6 @@
     "tornado",
     "whirlwind"
   ],
-  "mappedToEmoticons": [
-    "1f32a_cloudwithtornado"
-  ],
   "tts": "tornado",
   "unicode": "1f32a fe0f"
 }

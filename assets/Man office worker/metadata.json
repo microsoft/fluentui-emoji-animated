@@ -2,9 +2,6 @@
   "cldr": "man office worker",
   "fromVersion": "4.0",
   "glyph": "👨‍💼",
-  "glyphAsUtfInEmoticons": [
-    "officeworkermale"
-  ],
   "group": "People & Body",
   "keywords": [
     "architect",
@@ -13,9 +10,6 @@
     "man office worker",
     "manager",
     "white-collar"
-  ],
-  "mappedToEmoticons": [
-    "officeworkermale"
   ],
   "tts": "man office worker",
   "unicode": "1f468 200d 1f4bc",

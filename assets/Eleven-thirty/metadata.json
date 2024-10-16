@@ -2,9 +2,6 @@
   "cldr": "eleven-thirty",
   "fromVersion": "0.7",
   "glyph": "🕦",
-  "glyphAsUtfInEmoticons": [
-    "1f566_eleventhirty"
-  ],
   "group": "Travel & Places",
   "keywords": [
     "11",
@@ -13,9 +10,6 @@
     "eleven",
     "eleven-thirty",
     "thirty"
-  ],
-  "mappedToEmoticons": [
-    "1f566_eleventhirty"
   ],
   "tts": "eleven-thirty",
   "unicode": "1f566"

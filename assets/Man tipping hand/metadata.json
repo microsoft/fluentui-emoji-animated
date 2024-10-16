@@ -2,18 +2,12 @@
   "cldr": "man tipping hand",
   "fromVersion": "4.0",
   "glyph": "💁‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_tipping_hand"
-  ],
   "group": "People & Body",
   "keywords": [
     "man",
     "man tipping hand",
     "sassy",
     "tipping hand"
-  ],
-  "mappedToEmoticons": [
-    "man_tipping_hand"
   ],
   "tts": "man tipping hand",
   "unicode": "1f481 200d 2642 fe0f",

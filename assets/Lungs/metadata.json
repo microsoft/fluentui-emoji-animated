@@ -2,9 +2,6 @@
   "cldr": "lungs",
   "fromVersion": "13.0",
   "glyph": "🫁",
-  "glyphAsUtfInEmoticons": [
-    "lungs"
-  ],
   "group": "People & Body",
   "keywords": [
     "breath",
@@ -13,9 +10,6 @@
     "lungs",
     "organ",
     "respiration"
-  ],
-  "mappedToEmoticons": [
-    "lungs"
   ],
   "tts": "lungs",
   "unicode": "1fac1"

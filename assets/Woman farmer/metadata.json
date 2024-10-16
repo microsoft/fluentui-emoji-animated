@@ -2,18 +2,12 @@
   "cldr": "woman farmer",
   "fromVersion": "4.0",
   "glyph": "👩‍🌾",
-  "glyphAsUtfInEmoticons": [
-    "womanfarmer"
-  ],
   "group": "People & Body",
   "keywords": [
     "farmer",
     "gardener",
     "rancher",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanfarmer"
   ],
   "tts": "woman farmer",
   "unicode": "1f469 200d 1f33e",

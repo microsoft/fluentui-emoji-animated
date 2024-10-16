@@ -2,16 +2,10 @@
   "cldr": "man climbing",
   "fromVersion": "5.0",
   "glyph": "🧗‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_climbing"
-  ],
   "group": "People & Body",
   "keywords": [
     "climber",
     "man climbing"
-  ],
-  "mappedToEmoticons": [
-    "man_climbing"
   ],
   "tts": "man climbing",
   "unicode": "1f9d7 200d 2642 fe0f",

@@ -2,18 +2,12 @@
   "cldr": "woman rowing boat",
   "fromVersion": "4.0",
   "glyph": "🚣‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_rowing_boat"
-  ],
   "group": "People & Body",
   "keywords": [
     "boat",
     "rowboat",
     "woman",
     "woman rowing boat"
-  ],
-  "mappedToEmoticons": [
-    "woman_rowing_boat"
   ],
   "tts": "woman rowing boat",
   "unicode": "1f6a3 200d 2640 fe0f",

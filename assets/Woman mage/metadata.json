@@ -2,17 +2,11 @@
   "cldr": "woman mage",
   "fromVersion": "5.0",
   "glyph": "🧙‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanmage"
-  ],
   "group": "People & Body",
   "keywords": [
     "sorceress",
     "witch",
     "woman mage"
-  ],
-  "mappedToEmoticons": [
-    "womanmage"
   ],
   "tts": "woman mage",
   "unicode": "1f9d9 200d 2640 fe0f",

@@ -2,9 +2,6 @@
   "cldr": "man mountain biking",
   "fromVersion": "4.0",
   "glyph": "🚵‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manmountainbiking"
-  ],
   "group": "People & Body",
   "keywords": [
     "bicycle",
@@ -13,9 +10,6 @@
     "man",
     "man mountain biking",
     "mountain"
-  ],
-  "mappedToEmoticons": [
-    "manmountainbiking"
   ],
   "tts": "man mountain biking",
   "unicode": "1f6b5 200d 2642 fe0f",

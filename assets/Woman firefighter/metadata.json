@@ -2,17 +2,11 @@
   "cldr": "woman firefighter",
   "fromVersion": "4.0",
   "glyph": "👩‍🚒",
-  "glyphAsUtfInEmoticons": [
-    "womanfirefighter"
-  ],
   "group": "People & Body",
   "keywords": [
     "firefighter",
     "firetruck",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanfirefighter"
   ],
   "tts": "woman firefighter",
   "unicode": "1f469 200d 1f692",

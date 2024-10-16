@@ -2,17 +2,11 @@
   "cldr": "man: beard",
   "fromVersion": "13.1",
   "glyph": "🧔‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manbeard"
-  ],
   "group": "People & Body",
   "keywords": [
     "beard",
     "man",
     "man: beard"
-  ],
-  "mappedToEmoticons": [
-    "manbeard"
   ],
   "tts": "man: beard",
   "unicode": "1f9d4 200d 2642 fe0f",

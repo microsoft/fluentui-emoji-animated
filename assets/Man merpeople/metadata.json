@@ -2,16 +2,10 @@
   "cldr": "merman",
   "fromVersion": "5.0",
   "glyph": "🧜‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "merman"
-  ],
   "group": "People & Body",
   "keywords": [
     "merman",
     "Triton"
-  ],
-  "mappedToEmoticons": [
-    "merman"
   ],
   "tts": "merman",
   "unicode": "1f9dc 200d 2642 fe0f",

@@ -2,16 +2,10 @@
   "cldr": "heart hands",
   "fromVersion": "14.0",
   "glyph": "🫶",
-  "glyphAsUtfInEmoticons": [
-    "hearthands"
-  ],
   "group": "People & Body",
   "keywords": [
     "heart hands",
     "love"
-  ],
-  "mappedToEmoticons": [
-    "hearthands"
   ],
   "tts": "heart hands",
   "unicode": "1faf6",

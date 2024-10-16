@@ -2,9 +2,6 @@
   "cldr": "woman with headscarf",
   "fromVersion": "5.0",
   "glyph": "🧕",
-  "glyphAsUtfInEmoticons": [
-    "woman_with_head_scarf"
-  ],
   "group": "People & Body",
   "keywords": [
     "headscarf",
@@ -12,9 +9,6 @@
     "mantilla",
     "tichel",
     "woman with headscarf"
-  ],
-  "mappedToEmoticons": [
-    "woman_with_head_scarf"
   ],
   "tts": "woman with headscarf",
   "unicode": "1f9d5",

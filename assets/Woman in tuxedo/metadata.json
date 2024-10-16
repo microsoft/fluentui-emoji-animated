@@ -2,17 +2,11 @@
   "cldr": "woman in tuxedo",
   "fromVersion": "13.0",
   "glyph": "🤵‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanintuxedo"
-  ],
   "group": "People & Body",
   "keywords": [
     "tuxedo",
     "woman",
     "woman in tuxedo"
-  ],
-  "mappedToEmoticons": [
-    "womanintuxedo"
   ],
   "tts": "woman in tuxedo",
   "unicode": "1f935 200d 2640 fe0f",

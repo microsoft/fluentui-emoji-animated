@@ -2,9 +2,6 @@
   "cldr": "frowning face with open mouth",
   "fromVersion": "1.0",
   "glyph": "😦",
-  "glyphAsUtfInEmoticons": [
-    "1f626_frowningfacewithopenmouth"
-  ],
   "group": "Smileys & Emotion",
   "keywords": [
     "face",
@@ -12,9 +9,6 @@
     "frowning face with open mouth",
     "mouth",
     "open"
-  ],
-  "mappedToEmoticons": [
-    "1f626_frowningfacewithopenmouth"
   ],
   "tts": "frowning face with open mouth",
   "unicode": "1f626"

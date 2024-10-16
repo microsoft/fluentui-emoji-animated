@@ -2,17 +2,11 @@
   "cldr": "man construction worker",
   "fromVersion": "4.0",
   "glyph": "👷‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_construction_worker"
-  ],
   "group": "People & Body",
   "keywords": [
     "construction",
     "man",
     "worker"
-  ],
-  "mappedToEmoticons": [
-    "man_construction_worker"
   ],
   "tts": "man construction worker",
   "unicode": "1f477 200d 2642 fe0f",

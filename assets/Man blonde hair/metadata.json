@@ -2,9 +2,6 @@
   "cldr": "man: blond hair",
   "fromVersion": "4.0",
   "glyph": "👱‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manblondhair"
-  ],
   "group": "People & Body",
   "keywords": [
     "blond",
@@ -12,9 +9,6 @@
     "hair",
     "man",
     "man: blond hair"
-  ],
-  "mappedToEmoticons": [
-    "manblondhair"
   ],
   "tts": "man: blond hair",
   "unicode": "1f471 200d 2642 fe0f",

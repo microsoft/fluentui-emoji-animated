@@ -2,9 +2,6 @@
   "cldr": "chequered flag",
   "fromVersion": "0.6",
   "glyph": "🏁",
-  "glyphAsUtfInEmoticons": [
-    "1f3c1_chequeredflag"
-  ],
   "group": "Flags",
   "keywords": [
     "checkered",

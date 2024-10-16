@@ -2,9 +2,6 @@
   "cldr": "man superhero",
   "fromVersion": "11.0",
   "glyph": "🦸‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "mansuperhero"
-  ],
   "group": "People & Body",
   "keywords": [
     "good",
@@ -12,9 +9,6 @@
     "man",
     "man superhero",
     "superpower"
-  ],
-  "mappedToEmoticons": [
-    "mansuperhero"
   ],
   "tts": "man superhero",
   "unicode": "1f9b8 200d 2642 fe0f",

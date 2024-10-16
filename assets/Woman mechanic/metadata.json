@@ -2,9 +2,6 @@
   "cldr": "woman mechanic",
   "fromVersion": "4.0",
   "glyph": "👩‍🔧",
-  "glyphAsUtfInEmoticons": [
-    "womanmechanic"
-  ],
   "group": "People & Body",
   "keywords": [
     "electrician",
@@ -12,9 +9,6 @@
     "plumber",
     "tradesperson",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanmechanic"
   ],
   "tts": "woman mechanic",
   "unicode": "1f469 200d 1f527",

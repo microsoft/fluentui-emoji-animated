@@ -2,9 +2,6 @@
   "cldr": "man scientist",
   "fromVersion": "4.0",
   "glyph": "👨‍🔬",
-  "glyphAsUtfInEmoticons": [
-    "manscientist"
-  ],
   "group": "People & Body",
   "keywords": [
     "biologist",
@@ -13,9 +10,6 @@
     "man",
     "physicist",
     "scientist"
-  ],
-  "mappedToEmoticons": [
-    "manscientist"
   ],
   "tts": "man scientist",
   "unicode": "1f468 200d 1f52c",

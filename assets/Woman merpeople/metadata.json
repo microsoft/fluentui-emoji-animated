@@ -2,16 +2,10 @@
   "cldr": "mermaid",
   "fromVersion": "5.0",
   "glyph": "🧜‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "mermaid"
-  ],
   "group": "People & Body",
   "keywords": [
     "mermaid",
     "merwoman"
-  ],
-  "mappedToEmoticons": [
-    "mermaid"
   ],
   "tts": "mermaid",
   "unicode": "1f9dc 200d 2640 fe0f",

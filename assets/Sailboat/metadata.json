@@ -2,9 +2,6 @@
   "cldr": "sailboat",
   "fromVersion": "0.6",
   "glyph": "⛵",
-  "glyphAsUtfInEmoticons": [
-    "26f5_sailboat"
-  ],
   "group": "Travel & Places",
   "keywords": [
     "boat",
@@ -12,9 +9,6 @@
     "sailboat",
     "sea",
     "yacht"
-  ],
-  "mappedToEmoticons": [
-    "26f5_sailboat"
   ],
   "tts": "sailboat",
   "unicode": "26f5"

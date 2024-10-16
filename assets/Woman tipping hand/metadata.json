@@ -2,18 +2,12 @@
   "cldr": "woman tipping hand",
   "fromVersion": "4.0",
   "glyph": "💁‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womantippinghand"
-  ],
   "group": "People & Body",
   "keywords": [
     "sassy",
     "tipping hand",
     "woman",
     "woman tipping hand"
-  ],
-  "mappedToEmoticons": [
-    "womantippinghand"
   ],
   "tts": "woman tipping hand",
   "unicode": "1f481 200d 2640 fe0f",

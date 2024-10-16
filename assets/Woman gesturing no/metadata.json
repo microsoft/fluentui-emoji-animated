@@ -2,9 +2,6 @@
   "cldr": "woman gesturing NO",
   "fromVersion": "4.0",
   "glyph": "🙅‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womangesturingno"
-  ],
   "group": "People & Body",
   "keywords": [
     "forbidden",
@@ -13,9 +10,6 @@
     "prohibited",
     "woman",
     "woman gesturing NO"
-  ],
-  "mappedToEmoticons": [
-    "womangesturingno"
   ],
   "tts": "woman gesturing NO",
   "unicode": "1f645 200d 2640 fe0f",

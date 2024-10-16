@@ -2,9 +2,6 @@
   "cldr": "aerial tramway",
   "fromVersion": "1.0",
   "glyph": "🚡",
-  "glyphAsUtfInEmoticons": [
-    "1f6a1_aerialtramway"
-  ],
   "group": "Travel & Places",
   "keywords": [
     "aerial",
@@ -12,9 +9,6 @@
     "car",
     "gondola",
     "tramway"
-  ],
-  "mappedToEmoticons": [
-    "1f6a1_aerialtramway"
   ],
   "tts": "aerial tramway",
   "unicode": "1f6a1"

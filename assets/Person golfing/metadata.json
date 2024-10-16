@@ -2,17 +2,11 @@
   "cldr": "person golfing",
   "fromVersion": "0.7",
   "glyph": "🏌️",
-  "glyphAsUtfInEmoticons": [
-    "golfer"
-  ],
   "group": "People & Body",
   "keywords": [
     "ball",
     "golf",
     "person golfing"
-  ],
-  "mappedToEmoticons": [
-    "golfer"
   ],
   "tts": "person golfing",
   "unicode": "1f3cc fe0f",

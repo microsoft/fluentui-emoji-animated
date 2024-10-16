@@ -2,18 +2,12 @@
   "cldr": "merperson",
   "fromVersion": "5.0",
   "glyph": "🧜",
-  "glyphAsUtfInEmoticons": [
-    "merperson"
-  ],
   "group": "People & Body",
   "keywords": [
     "mermaid",
     "merman",
     "merperson",
     "merwoman"
-  ],
-  "mappedToEmoticons": [
-    "merperson"
   ],
   "tts": "merperson",
   "unicode": "1f9dc",

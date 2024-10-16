@@ -2,10 +2,10 @@
   "cldr": "prince",
   "fromVersion": "3.0",
   "glyph": "🤴",
-  "glyphAsUtfInEmoticons": ["prince"],
   "group": "People & Body",
-  "keywords": ["prince"],
-  "mappedToEmoticons": ["prince"],
+  "keywords": [
+    "prince"
+  ],
   "tts": "prince",
   "unicode": "1f934",
   "unicodeSkintones": [

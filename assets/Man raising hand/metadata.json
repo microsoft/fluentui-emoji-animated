@@ -2,18 +2,12 @@
   "cldr": "man raising hand",
   "fromVersion": "4.0",
   "glyph": "🙋‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_raising_hand"
-  ],
   "group": "People & Body",
   "keywords": [
     "gesture",
     "man",
     "man raising hand",
     "raising hand"
-  ],
-  "mappedToEmoticons": [
-    "man_raising_hand"
   ],
   "tts": "man raising hand",
   "unicode": "1f64b 200d 2642 fe0f",

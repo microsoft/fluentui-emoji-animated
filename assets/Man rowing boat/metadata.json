@@ -2,18 +2,12 @@
   "cldr": "man rowing boat",
   "fromVersion": "4.0",
   "glyph": "🚣‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manrowingboat"
-  ],
   "group": "People & Body",
   "keywords": [
     "boat",
     "man",
     "man rowing boat",
     "rowboat"
-  ],
-  "mappedToEmoticons": [
-    "manrowingboat"
   ],
   "tts": "man rowing boat",
   "unicode": "1f6a3 200d 2642 fe0f",

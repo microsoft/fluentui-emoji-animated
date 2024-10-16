@@ -2,9 +2,6 @@
   "cldr": "woman scientist",
   "fromVersion": "4.0",
   "glyph": "👩‍🔬",
-  "glyphAsUtfInEmoticons": [
-    "womanscientist"
-  ],
   "group": "People & Body",
   "keywords": [
     "biologist",
@@ -13,9 +10,6 @@
     "physicist",
     "scientist",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanscientist"
   ],
   "tts": "woman scientist",
   "unicode": "1f469 200d 1f52c",

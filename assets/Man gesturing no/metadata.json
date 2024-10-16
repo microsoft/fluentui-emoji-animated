@@ -2,9 +2,6 @@
   "cldr": "man gesturing NO",
   "fromVersion": "4.0",
   "glyph": "🙅‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_gesturing_not_ok"
-  ],
   "group": "People & Body",
   "keywords": [
     "forbidden",
@@ -13,9 +10,6 @@
     "man",
     "man gesturing NO",
     "prohibited"
-  ],
-  "mappedToEmoticons": [
-    "man_gesturing_not_ok"
   ],
   "tts": "man gesturing NO",
   "unicode": "1f645 200d 2642 fe0f",

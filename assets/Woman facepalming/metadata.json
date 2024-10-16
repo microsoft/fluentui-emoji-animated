@@ -2,9 +2,6 @@
   "cldr": "woman facepalming",
   "fromVersion": "4.0",
   "glyph": "🤦‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanfacepalming"
-  ],
   "group": "People & Body",
   "keywords": [
     "disbelief",
@@ -12,9 +9,6 @@
     "facepalm",
     "woman",
     "woman facepalming"
-  ],
-  "mappedToEmoticons": [
-    "womanfacepalming"
   ],
   "tts": "woman facepalming",
   "unicode": "1f926 200d 2640 fe0f",

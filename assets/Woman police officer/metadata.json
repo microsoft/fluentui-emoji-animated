@@ -2,18 +2,12 @@
   "cldr": "woman police officer",
   "fromVersion": "4.0",
   "glyph": "👮‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanpoliceofficer"
-  ],
   "group": "People & Body",
   "keywords": [
     "cop",
     "officer",
     "police",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanpoliceofficer"
   ],
   "tts": "woman police officer",
   "unicode": "1f46e 200d 2640 fe0f",

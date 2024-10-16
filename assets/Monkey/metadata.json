@@ -2,14 +2,8 @@
   "cldr": "monkey",
   "fromVersion": "0.6",
   "glyph": "🐒",
-  "glyphAsUtfInEmoticons": [
-    "monkey"
-  ],
   "group": "Animals & Nature",
   "keywords": [
-    "monkey"
-  ],
-  "mappedToEmoticons": [
     "monkey"
   ],
   "tts": "monkey",

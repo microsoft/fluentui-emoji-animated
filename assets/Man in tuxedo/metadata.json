@@ -2,17 +2,11 @@
   "cldr": "man in tuxedo",
   "fromVersion": "13.0",
   "glyph": "🤵‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manintuxedo"
-  ],
   "group": "People & Body",
   "keywords": [
     "man",
     "man in tuxedo",
     "tuxedo"
-  ],
-  "mappedToEmoticons": [
-    "manintuxedo"
   ],
   "tts": "man in tuxedo",
   "unicode": "1f935 200d 2642 fe0f",

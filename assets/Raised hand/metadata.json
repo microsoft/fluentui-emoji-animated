@@ -2,19 +2,12 @@
   "cldr": "raised hand",
   "fromVersion": "0.6",
   "glyph": "✋",
-  "glyphAsUtfInEmoticons": [
-    "270b_raisedhand",
-    "highfive"
-  ],
   "group": "People & Body",
   "keywords": [
     "hand",
     "high 5",
     "high five",
     "raised hand"
-  ],
-  "mappedToEmoticons": [
-    "270b_raisedhand"
   ],
   "tts": "raised hand",
   "unicode": "270b",

@@ -2,17 +2,11 @@
   "cldr": "woman bouncing ball",
   "fromVersion": "4.0",
   "glyph": "⛹️‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_bouncing_ball"
-  ],
   "group": "People & Body",
   "keywords": [
     "ball",
     "woman",
     "woman bouncing ball"
-  ],
-  "mappedToEmoticons": [
-    "woman_bouncing_ball"
   ],
   "tts": "woman bouncing ball",
   "unicode": "26f9 fe0f 200d 2640 fe0f",

@@ -2,17 +2,11 @@
   "cldr": "woman frowning",
   "fromVersion": "4.0",
   "glyph": "🙍‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanfrowning"
-  ],
   "group": "People & Body",
   "keywords": [
     "frowning",
     "gesture",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanfrowning"
   ],
   "tts": "woman frowning",
   "unicode": "1f64d 200d 2640 fe0f",

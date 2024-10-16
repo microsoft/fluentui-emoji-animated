@@ -2,18 +2,12 @@
   "cldr": "breast-feeding",
   "fromVersion": "5.0",
   "glyph": "🤱",
-  "glyphAsUtfInEmoticons": [
-    "breastfeeding"
-  ],
   "group": "People & Body",
   "keywords": [
     "baby",
     "breast",
     "breast-feeding",
     "nursing"
-  ],
-  "mappedToEmoticons": [
-    "breastfeeding"
   ],
   "tts": "breast-feeding",
   "unicode": "1f931",

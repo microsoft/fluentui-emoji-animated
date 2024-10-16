@@ -2,10 +2,6 @@
   "cldr": "woman shrugging",
   "fromVersion": "4.0",
   "glyph": "🤷‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanshrug",
-    "woty"
-  ],
   "group": "People & Body",
   "keywords": [
     "doubt",
@@ -14,9 +10,6 @@
     "shrug",
     "woman",
     "woman shrugging"
-  ],
-  "mappedToEmoticons": [
-    "womanshrug"
   ],
   "tts": "woman shrugging",
   "unicode": "1f937 200d 2640 fe0f",

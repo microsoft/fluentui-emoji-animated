@@ -2,16 +2,10 @@
   "cldr": "baby",
   "fromVersion": "0.6",
   "glyph": "👶",
-  "glyphAsUtfInEmoticons": [
-    "smilebaby"
-  ],
   "group": "People & Body",
   "keywords": [
     "baby",
     "young"
-  ],
-  "mappedToEmoticons": [
-    "smilebaby"
   ],
   "tts": "baby",
   "unicode": "1f476",

@@ -2,9 +2,6 @@
   "cldr": "raising hands",
   "fromVersion": "0.6",
   "glyph": "🙌",
-  "glyphAsUtfInEmoticons": [
-    "handsinair"
-  ],
   "group": "People & Body",
   "keywords": [
     "celebration",
@@ -13,9 +10,6 @@
     "hooray",
     "raised",
     "raising hands"
-  ],
-  "mappedToEmoticons": [
-    "raisinghands"
   ],
   "tts": "raising hands",
   "unicode": "1f64c",

@@ -2,9 +2,6 @@
   "cldr": "rainbow flag",
   "fromVersion": "4.0",
   "glyph": "🏳️‍🌈",
-  "glyphAsUtfInEmoticons": [
-    "flaggaypride"
-  ],
   "group": "Flags",
   "keywords": [
     "pride",

@@ -2,9 +2,6 @@
   "cldr": "Santa Claus",
   "fromVersion": "0.6",
   "glyph": "🎅",
-  "glyphAsUtfInEmoticons": [
-    "santa"
-  ],
   "group": "People & Body",
   "keywords": [
     "celebration",
@@ -13,9 +10,6 @@
     "father",
     "santa",
     "Santa Claus"
-  ],
-  "mappedToEmoticons": [
-    "santa"
   ],
   "tts": "Santa Claus",
   "unicode": "1f385",

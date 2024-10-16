@@ -2,16 +2,10 @@
   "cldr": "palms up together",
   "fromVersion": "5.0",
   "glyph": "🤲",
-  "glyphAsUtfInEmoticons": [
-    "1f932_palmsuptogether"
-  ],
   "group": "People & Body",
   "keywords": [
     "palms up together",
     "prayer"
-  ],
-  "mappedToEmoticons": [
-    "1f932_palmsuptogether"
   ],
   "tts": "palms up together",
   "unicode": "1f932",

@@ -2,17 +2,11 @@
   "cldr": "woman lifting weights",
   "fromVersion": "4.0",
   "glyph": "🏋️‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_weight_lifter"
-  ],
   "group": "People & Body",
   "keywords": [
     "weight lifter",
     "woman",
     "woman lifting weights"
-  ],
-  "mappedToEmoticons": [
-    "woman_weight_lifter"
   ],
   "tts": "woman lifting weights",
   "unicode": "1f3cb fe0f 200d 2640 fe0f",

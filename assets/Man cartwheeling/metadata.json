@@ -2,18 +2,12 @@
   "cldr": "man cartwheeling",
   "fromVersion": "4.0",
   "glyph": "🤸‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_cartwheeling"
-  ],
   "group": "People & Body",
   "keywords": [
     "cartwheel",
     "gymnastics",
     "man",
     "man cartwheeling"
-  ],
-  "mappedToEmoticons": [
-    "man_cartwheeling"
   ],
   "tts": "man cartwheeling",
   "unicode": "1f938 200d 2642 fe0f",

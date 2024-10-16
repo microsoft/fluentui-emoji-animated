@@ -2,9 +2,6 @@
   "cldr": "man facepalming",
   "fromVersion": "4.0",
   "glyph": "🤦‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manfacepalming"
-  ],
   "group": "People & Body",
   "keywords": [
     "disbelief",
@@ -12,9 +9,6 @@
     "facepalm",
     "man",
     "man facepalming"
-  ],
-  "mappedToEmoticons": [
-    "manfacepalming"
   ],
   "tts": "man facepalming",
   "unicode": "1f926 200d 2642 fe0f",

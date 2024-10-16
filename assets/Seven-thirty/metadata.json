@@ -2,9 +2,6 @@
   "cldr": "seven-thirty",
   "fromVersion": "0.7",
   "glyph": "🕢",
-  "glyphAsUtfInEmoticons": [
-    "1f562_seventhirty"
-  ],
   "group": "Travel & Places",
   "keywords": [
     "7",
@@ -13,9 +10,6 @@
     "seven",
     "seven-thirty",
     "thirty"
-  ],
-  "mappedToEmoticons": [
-    "1f562_seventhirty"
   ],
   "tts": "seven-thirty",
   "unicode": "1f562"

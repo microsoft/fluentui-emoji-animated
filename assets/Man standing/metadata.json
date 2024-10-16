@@ -2,16 +2,10 @@
   "cldr": "man standing",
   "fromVersion": "12.0",
   "glyph": "🧍‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manstanding"
-  ],
   "group": "People & Body",
   "keywords": [
     "man",
     "standing"
-  ],
-  "mappedToEmoticons": [
-    "manstanding"
   ],
   "tts": "man standing",
   "unicode": "1f9cd 200d 2642 fe0f",

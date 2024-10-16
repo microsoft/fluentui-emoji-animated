@@ -2,17 +2,11 @@
   "cldr": "woman getting haircut",
   "fromVersion": "4.0",
   "glyph": "💇‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_getting_haircut"
-  ],
   "group": "People & Body",
   "keywords": [
     "haircut",
     "woman",
     "woman getting haircut"
-  ],
-  "mappedToEmoticons": [
-    "woman_getting_haircut"
   ],
   "tts": "woman getting haircut",
   "unicode": "1f487 200d 2640 fe0f",

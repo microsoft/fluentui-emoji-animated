@@ -2,9 +2,6 @@
   "cldr": "ram",
   "fromVersion": "1.0",
   "glyph": "🐏",
-  "glyphAsUtfInEmoticons": [
-    "1f40f_ram"
-  ],
   "group": "Animals & Nature",
   "keywords": [
     "Aries",
@@ -12,9 +9,6 @@
     "ram",
     "sheep",
     "zodiac"
-  ],
-  "mappedToEmoticons": [
-    "1f40f_ram"
   ],
   "tts": "ram",
   "unicode": "1f40f"

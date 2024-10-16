@@ -2,16 +2,10 @@
   "cldr": "woman standing",
   "fromVersion": "12.0",
   "glyph": "🧍‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanstanding"
-  ],
   "group": "People & Body",
   "keywords": [
     "standing",
     "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanstanding"
   ],
   "tts": "woman standing",
   "unicode": "1f9cd 200d 2640 fe0f",

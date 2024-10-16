@@ -2,15 +2,9 @@
   "cldr": "delivery truck",
   "fromVersion": "0.6",
   "glyph": "🚚",
-  "glyphAsUtfInEmoticons": [
-    "truck"
-  ],
   "group": "Travel & Places",
   "keywords": [
     "delivery",
-    "truck"
-  ],
-  "mappedToEmoticons": [
     "truck"
   ],
   "tts": "delivery truck",

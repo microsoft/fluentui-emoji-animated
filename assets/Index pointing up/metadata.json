@@ -2,9 +2,6 @@
   "cldr": "index pointing up",
   "fromVersion": "0.6",
   "glyph": "☝️",
-  "glyphAsUtfInEmoticons": [
-    "pointupindex"
-  ],
   "group": "People & Body",
   "keywords": [
     "finger",
@@ -13,9 +10,6 @@
     "index pointing up",
     "point",
     "up"
-  ],
-  "mappedToEmoticons": [
-    "pointupindex"
   ],
   "tts": "index pointing up",
   "unicode": "261d fe0f",

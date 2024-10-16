@@ -2,9 +2,6 @@
   "cldr": "person raising hand",
   "fromVersion": "0.6",
   "glyph": "🙋",
-  "glyphAsUtfInEmoticons": [
-    "happy_person_raising_one_hand"
-  ],
   "group": "People & Body",
   "keywords": [
     "gesture",
@@ -12,9 +9,6 @@
     "happy",
     "person raising hand",
     "raised"
-  ],
-  "mappedToEmoticons": [
-    "happy_person_raising_one_hand"
   ],
   "tts": "person raising hand",
   "unicode": "1f64b",

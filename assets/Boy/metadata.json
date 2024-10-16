@@ -2,16 +2,10 @@
   "cldr": "boy",
   "fromVersion": "0.6",
   "glyph": "👦",
-  "glyphAsUtfInEmoticons": [
-    "smileboy"
-  ],
   "group": "People & Body",
   "keywords": [
     "boy",
     "young"
-  ],
-  "mappedToEmoticons": [
-    "smileboy"
   ],
   "tts": "boy",
   "unicode": "1f466",

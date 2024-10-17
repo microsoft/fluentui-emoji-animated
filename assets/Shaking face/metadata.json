@@ -1,0 +1,15 @@
+{
+  "cldr": "shaking face",
+  "fromVersion": "15.0",
+  "glyph": "🫨",
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "earthquake",
+    "face",
+    "shaking",
+    "shock",
+    "vibrate"
+  ],
+  "tts": "shaking face",
+  "unicode": "1fae8"
+}

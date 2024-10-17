@@ -1,0 +1,17 @@
+{
+  "cldr": "donkey",
+  "fromVersion": "15.0",
+  "glyph": "🫏",
+  "group": "Animals & Nature",
+  "keywords": [
+    "animal",
+    "ass",
+    "burro",
+    "donkey",
+    "mammal",
+    "mule",
+    "stubborn"
+  ],
+  "tts": "donkey",
+  "unicode": "1facf"
+}
